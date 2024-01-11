@@ -1,7 +1,7 @@
 
 html{
     
-    background-color: rgb(190, 6, 6); 
+    background-color: rgb(215, 199, 199); 
     color: white;
     border-color: blue;
     border-style: dashed;
@@ -18,10 +18,28 @@ div{
     box-sizing: border-box;
 }
 
+img
+{height: 100%;
+    width: auto;
+}
+
+
 #navbar{
 
     height: 50px;
 
+}
+#img{
+
+    height: 30%;
+
+}
+
+#logo{
+    width: 30%;
+    height: 100%;
+    float:right;
+    text-align: right;
 }
 
 #flex{
@@ -33,6 +51,7 @@ div{
 #sidebar{
 
     width:30%;
+    border-color: bisque;
 }
 
 #main{
