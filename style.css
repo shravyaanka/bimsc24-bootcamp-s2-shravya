@@ -1,8 +1,10 @@
 
 html{
     
-    background-color: black; 
+    background-color: rgb(190, 6, 6); 
     color: white;
+    border-color: blue;
+    border-style: dashed;
 }
 
 body{
